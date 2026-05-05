@@ -1,26 +1,18 @@
 # vibe-reading
 
-A reading app that matches your vibe.
+系统性阅读计划生成工具。
 
-## Features
+## 当前阅读计划
 
-- Personalized reading experience
-- Clean and minimal interface
-- Focus on immersive reading
+**主题**：毛泽东著作与生平
 
-## Tech Stack
+**源仓库**：[Selected-Works-of-MaoTseTung](https://github.com/M0rtzz/Selected-Works-of-MaoTseTung)
 
-TBD
+**内容规模**：约 160 个文件，3.7 GB，涵盖选集、文集、传记、年谱、军事、延安专题等 16 大类
 
-## Getting Started
+**阅读路线**：入门奠基 → 核心精读 → 主题深入 → 历史全景 → 延伸拓展
 
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
+详见 → [reading-plan.md](./reading-plan.md)
 
 ## License
 
